@@ -60,7 +60,7 @@ button {
   height: 80vh;
   border-radius: 15px;
   opacity: 0.9;
-
+  width:auto;
 }
 
 .img2
@@ -71,6 +71,7 @@ button {
     width: 330px;
     height:200px;
     margin-top: 2%;
+    width:auto;
 }
 
 /*------------------------------------------------------*/
